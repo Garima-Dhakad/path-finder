@@ -1,2 +1,2 @@
-# Mars_Colonization_Project
-This Repository contains all the stuff related to Mars Colonization Program
+# path-finder
+This Repository contains all the stuff related to path finder project
